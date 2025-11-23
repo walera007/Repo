@@ -1,0 +1,35 @@
+user:
+	isAdmin: true
+	name: 'Vasa'
+	age: 40
+	position: 'Engineer'
+	skills:
+	- name: Search
+      level: 1
+      multistr: |
+      dkfgdfgl
+      dfgkldflg
+      dlfglg
+    - name: Flex
+      level: 2
+      multistr: |
+      dkfgdfgl
+      dfgkldflg
+      dlfglg
+    livingPlace: 
+        country: 'Russia'
+        city: 'Moscow'
+        street: 'Saratofscaja'
+        homeNum: 1
+        quartNum : 23
+    homePets:
+    - name: Cat
+      type: 'cat'
+      canMay: true
+    - name: Dog
+      type: 'dog'
+      canMay: false
+    
+    
+      
+      
